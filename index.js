@@ -19,6 +19,7 @@
 //   }
 
 //   print() {
+// this.allocation();
 //     console.log(
 //       `Name: ${this.name}, Age: ${this.age}, Marks: ${this.mks}, Stream: ${this.stream}`
 //     );
@@ -26,7 +27,7 @@
 // }
 
 // const ans = new Student("Vikas", 78, 987);
-// ans.allocation();
+
 // ans.print();
 
 
