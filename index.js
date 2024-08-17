@@ -30,6 +30,9 @@
 // ans.print();
 
 
+Question -- 2 //
+
+
 // class BubbleSorter {
 //   constructor(arr) {
 //     this.array = arr;
